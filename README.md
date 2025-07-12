@@ -33,7 +33,7 @@ This project implements a **Deep Learning-based Audio Classifier** using **Pytho
 
 | Component        | Description                             |
 |------------------|-----------------------------------------|
-| **Language**     | Python 3.8+                             |
+| **Language**     | Python 3.10+                             |
 | **Libraries**    | TensorFlow, Librosa, NumPy, Matplotlib  |
 | **Model**        | CNN for multi-class audio classification|
 | **Input**        | WAV/MP3 files                           |
